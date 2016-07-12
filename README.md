@@ -1,28 +1,22 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Twister
+![twister preview](/img/twister_preview_big.jpg)
 
-**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+## Multimedia
+If we had to choose one word to describe Twister that would be it. Twister is a theme that focusses on multimedia. It contains different post types to create video posts, audio posts, image post or gallery posts with ease. We created a ton of Variables, that make customization super easy.
+
+This theme is powerful and it comes with a few extras.
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+The theme comes with a grunt file, which means that working with it is super easy. We have Tasks that compile, concatenate, minify and even deploy to your site.
 
-## Preview
+### Front Matter Generator
+Twister comes with a front matter generator that will make generating the front matter for each post a breeze. So you don't have to remember each and every variable name, the generator will help you with that.
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+### Extensive Documentation
+We don't believe in delivering Code without explanation. So we wrote an extensive Documentation for Twister that goes over every single step from installing all of the dependencies to explaining how to customize, create posts and publish. We even tell you how you can host Twister with Plugins on GitHub pages.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Check the [Docs](http://twister.digitalmind.ch/documentation/) out.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+### Feedback, Wishes, Problems
+If you run into any trouble or have a request please do so by opening up an issue on the theme's GitHub page.
+If you just want to give us a general feedback feel free to [contact us!](http://digitalmind.ch/contact/)
